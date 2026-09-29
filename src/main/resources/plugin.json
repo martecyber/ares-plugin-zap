@@ -1,0 +1,10 @@
+{
+  "id": "zap",
+  "version": "1.0.0-beta1",
+  "displayName": "OWASP ZAP",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Import-only: parses OWASP ZAP's traditional XML report into WEB_APPLICATION/WEB_ENDPOINT assets and detections.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/zap.svg"
+}
